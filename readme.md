@@ -19,6 +19,8 @@ This repository serves as a collection of JavaScript implementations of various 
 
 ## Data Structures
 
+### Dynamic programming
+
 ### Arrays
 
 - [x] Find minimum and maximum elements in an array.
@@ -36,6 +38,9 @@ This repository serves as a collection of JavaScript implementations of various 
 - [x] Insertion Sort
 - [x] Merge Sort
 - [x] Quick Sort
+- [x] Radix sort
+- [x] Heap sort
+  
 
 ### Search Algorithms
 
@@ -54,4 +59,7 @@ This repository serves as a collection of JavaScript implementations of various 
 ### Tower of Hanoi
 
 - [x] Solve the Tower of Hanoi problem recursively.
+### Dynamic Programming
+- [x] knapsack (0,1)
+- [x] Fractional Knapsack (Greedy)  
 
